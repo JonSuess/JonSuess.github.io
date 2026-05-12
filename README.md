@@ -1,2 +1,3 @@
 # JonSuess.github.io
-personal website
+Portfolio / Resume Website
+Feel free to browse around!
